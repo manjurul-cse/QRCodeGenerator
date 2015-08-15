@@ -1,0 +1,13 @@
+@inherits RazorTemplateFolderHost<IEnumerable<QRCodeGenerator.Account>>
+<itext author='Andrei Ignat' title='Collection'>
+                <chapter numberdepth='0'>
+                <newline />
+                <section numberdepth='0'>
+                <table width='100%'  cellspacing='0' cellpadding='2' columns='13' grayfill='0.90'>                
+            
+<row>
+<cell><phrase font='Arial' size='12' style='bold'>Bank</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>ReqId</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>AccountNo</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>Name</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>Qty</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>Branch</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>Currency</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>StartStNo</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>EndStNo</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>Routing</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>MICRAc</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>Type</phrase></cell><cell><phrase font='Arial' size='12' style='bold'>Image</phrase></cell></row>
+@foreach(var item in Model){
+@RenderPartial("~/Account_PDFtextSharpXML_item.cshtml",item);
+}
+</table></section></chapter></itext>

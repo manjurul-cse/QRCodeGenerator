@@ -1,0 +1,24 @@
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\bin\Debug\ExcelReader.dll
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\bin\Debug\ExcelReader.pdb
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csprojResolveAssemblyReference.cache
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.QRCode.resources
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.Cache
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCoder.dll
+c:\users\tml\documents\visual studio 2013\Projects\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCoder.pdb
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csprojResolveAssemblyReference.cache
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.QRCode.resources
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.Cache
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\bin\Debug\ExcelReader.pdb
+G:\Demo Work\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCoder.pdb
